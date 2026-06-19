@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on ML<br>👯 I’m looking to collaborate on projects related to Data science,Fullstack,ML<br>🌱 I’m currently learning Data Science & Machine Learning<br>
+🔭 Building Machine Learning and AI projects
+🌱 Learning Data Science, Deep Learning, and MLOps
+👯 Open to collaborating on AI/ML and Full-Stack projects
+🎯 Goal: Contribute to Open Source and secure AI/ML internships<br>
 
 
 ## 🌐 Socials:
